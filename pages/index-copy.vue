@@ -2067,7 +2067,7 @@ td {
       "Confirm decline": "确认拒绝",
       "repair_type": {
         "internal": "内部",
-        "external": "外部"
+        "external": "外"
       }
     }
   }
