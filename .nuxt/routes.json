@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index-copy",
+    "path": "/index-copy",
+    "component": "/home/psserver/vgg-source/GA/rpa_aw_demo/pages/index-copy.vue",
+    "chunkName": "pages/index-copy",
+    "_name": "_4bc1dffc"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/psserver/vgg-source/GA/rpa_aw_demo/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_36a397d4"
+  }
+]

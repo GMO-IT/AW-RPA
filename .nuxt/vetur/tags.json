@@ -1,0 +1,35 @@
+{
+  "DsFilter": {
+    "description": "Auto imported from components/DsFilter.vue"
+  },
+  "Location": {
+    "description": "Auto imported from components/Location.vue"
+  },
+  "Vfa": {
+    "description": "Auto imported from components/Vfa.vue"
+  },
+  "Auth": {
+    "description": "Auto imported from components/auth.vue"
+  },
+  "Staff": {
+    "description": "Auto imported from components/staff.vue"
+  },
+  "RequestFormCreateCopy2909": {
+    "description": "Auto imported from components/requestForm/Create-copy-2909.vue"
+  },
+  "RequestFormCreate": {
+    "description": "Auto imported from components/requestForm/Create.vue"
+  },
+  "RequestFormDetailCopy": {
+    "description": "Auto imported from components/requestForm/Detail-copy.vue"
+  },
+  "RequestFormDetail": {
+    "description": "Auto imported from components/requestForm/Detail.vue"
+  },
+  "RequestFormEdit": {
+    "description": "Auto imported from components/requestForm/Edit.vue"
+  },
+  "RequestFormPrint": {
+    "description": "Auto imported from components/requestForm/Print.vue"
+  }
+}
